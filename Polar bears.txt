@@ -1,1 +1,2 @@
-Polar bears are extremly cute
+Polar bears are cute
+>>>>>>> NewBranch
